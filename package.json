@@ -1,10 +1,10 @@
 {
-  "name": "express-hbs",
+  "name": "koa2-hbs",
   "version": "1.0.1",
   "description": "Express 3 handlebars template engine complete with multiple layouts, partials and blocks.",
   "keywords": [
-    "express3",
-    "express",
+    "koa2-hbs",
+    "koa2",
     "handlebars",
     "layout",
     "partials"
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/barc/express-hbs"
+    "url": "https://github.com/KuTi/koa2-hbs"
   },
-  "bugs": "https://github.com/barc/express-hbs/issues",
-  "author": "Mario Gutierrez <mario@barc.com>",
+  "bugs": "https://github.com/KuTi/koa2-hbs/issues",
+  "author": "CuongLe <cuongle.kty@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "cookie-parser": "~1.3.3",
